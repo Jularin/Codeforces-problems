@@ -23,4 +23,4 @@ for i in range(n):
 			steps+=number_opened1 - number_opened
 
 print(steps)
-
+"""NOT SOLVED"""
